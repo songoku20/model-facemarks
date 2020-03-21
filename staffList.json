@@ -1,0 +1,158 @@
+[
+  {
+    "id": 7,
+    "first_name": "Nguyễn Hồng",
+    "last_name": "Đoàn",
+    "email": "doannguyenhong@tcom.vn",
+    "staff_id": "TC1001010",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 5,
+      "name": "Mobile",
+      "description": "Các dự án Android, IOS và react native"
+    }
+  },
+  {
+    "id": 8,
+    "first_name": "Nguyễn Văn",
+    "last_name": "Nam",
+    "email": "namnguyenvan@tcom.vn",
+    "staff_id": "TC1001011",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 3,
+      "name": "Nodejs",
+      "description": "Sử dụng Nodejs, JS và các platform"
+    }
+  },
+  {
+    "id": 9,
+    "first_name": "Nguyễn Đức",
+    "last_name": "Trình",
+    "email": "trinhnguyenduc@tcom.vn",
+    "staff_id": "TC1001012",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 5,
+      "name": "Mobile",
+      "description": "Các dự án Android, IOS và react native"
+    }
+  },
+  {
+    "id": 10,
+    "first_name": "Nguyễn Văn",
+    "last_name": "Trình",
+    "email": "trinhnguyenvan@tcom.vn",
+    "staff_id": "TC1001013",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 3,
+      "name": "Nodejs",
+      "description": "Sử dụng Nodejs, JS và các platform"
+    }
+  },
+  {
+    "id": 16,
+    "first_name": "Nguyễn Văn",
+    "last_name": "Tuấn",
+    "email": "tuannv@tcom.vn",
+    "staff_id": "TC1001017",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 6,
+      "name": "Design",
+      "description": "Xây dựng bản phác thảo giao diện từ ý tưởng"
+    }
+  },
+  {
+    "id": 11,
+    "first_name": "Ngô Thị Phương",
+    "last_name": "Thảo",
+    "email": "thaongothiphuong@tcom.vn",
+    "staff_id": "TC1001022",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 4,
+      "name": "Tester",
+      "description": "Đội Tester, kiểm tra các hệ thống"
+    }
+  },
+  {
+    "id": 12,
+    "first_name": "Hoàng Quốc",
+    "last_name": "Phương",
+    "email": "phuonghoangquoc@tcom.vn",
+    "staff_id": "TC1001024",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 2,
+      "name": ".NET",
+      "description": "Công nghệ .NET, các dự án với Nhật Bản"
+    }
+  },
+  {
+    "id": 3,
+    "first_name": "Phan Văn",
+    "last_name": "Cường",
+    "email": "cuongphanvan@tcom.vn",
+    "staff_id": "TC1001026",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 1,
+      "name": "AI",
+      "description": "Phát triển các dự án trí tuệ nhân tạo"
+    }
+  },
+  {
+    "id": 15,
+    "first_name": "Vũ Hồng",
+    "last_name": "Việt",
+    "email": "vietvuhong@tcom.vn",
+    "staff_id": "TC1001034",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 5,
+      "name": "Mobile",
+      "description": "Các dự án Android, IOS và react native"
+    }
+  },
+  {
+    "id": 13,
+    "first_name": "Đào Hoàng",
+    "last_name": "Sơn",
+    "email": "sondaohoang@tcom.vn",
+    "staff_id": "TC1001037",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 2,
+      "name": ".NET",
+      "description": "Công nghệ .NET, các dự án với Nhật Bản"
+    }
+  },
+  {
+    "id": 14,
+    "first_name": "Nguyễn Hiền",
+    "last_name": "Lương",
+    "email": "luongnh@tcom.vn",
+    "staff_id": "TC1001041",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 4,
+      "name": "Tester",
+      "description": "Đội Tester, kiểm tra các hệ thống"
+    }
+  },
+  {
+    "id": 2,
+    "first_name": "Vũ Thị",
+    "last_name": "Ngọc",
+    "email": "ngocvuthi@tcom.vn",
+    "staff_id": "TC1001043",
+    "avatar": "static/no-user.jpg",
+    "department": {
+      "id": 1,
+      "name": "AI",
+      "description": "Phát triển các dự án trí tuệ nhân tạo"
+    }
+  }
+]

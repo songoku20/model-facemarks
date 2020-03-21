@@ -1,0 +1,98 @@
+[
+  {
+    "staff_id": "TC1001010",
+    "first_name": "Nguyễn Hồng",
+    "last_name": "Đoàn",
+    "train_status": "NOTTRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001011",
+    "first_name": "Nguyễn Văn",
+    "last_name": "Nam",
+    "train_status": "NOTTRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001012",
+    "first_name": "Nguyễn Đức",
+    "last_name": "Trình",
+    "train_status": "NOTTRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001013",
+    "first_name": "Nguyễn Văn",
+    "last_name": "Trình",
+    "train_status": "NOTTRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001017",
+    "first_name": "Nguyễn Văn",
+    "last_name": "Tuấn",
+    "train_status": "NOTTRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001022",
+    "first_name": "Ngô Thị Phương",
+    "last_name": "Thảo",
+    "train_status": "RETRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001024",
+    "first_name": "Hoàng Quốc",
+    "last_name": "Phương",
+    "train_status": "NOTTRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001026",
+    "first_name": "Phan Văn",
+    "last_name": "Cường",
+    "train_status": "NOTTRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001034",
+    "first_name": "Vũ Hồng",
+    "last_name": "Việt",
+    "train_status": "TRAINED",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001037",
+    "first_name": "Đào Hoàng",
+    "last_name": "Sơn",
+    "train_status": "NOTTRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001041",
+    "first_name": "Nguyễn Hiền",
+    "last_name": "Lương",
+    "train_status": "NOTTRAIN",
+    "train_process": 0,
+    "avatar": "static/no-user.jpg"
+  },
+  {
+    "staff_id": "TC1001043",
+    "first_name": "Vũ Thị",
+    "last_name": "Ngọc",
+    "train_status": "TRAINING",
+    "train_process": 14,
+    "avatar": "static/no-user.jpg"
+  }
+]
